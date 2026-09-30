@@ -5,3 +5,7 @@ venv
 # Dotenv
 
 .env
+
+# Pycache
+
+__pycache__
